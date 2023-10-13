@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+sleep_time: 1
+browser: firefox
+username: IvanovIvan123
+password: 1b76330cef
+bad_login: qwerty
+name: Nikita Belov
+email: 8elovn@gmail.com
+content: Test text
